@@ -1,5 +1,5 @@
 # este es el valor de PI
-PI = 3.1415921
+PI = 3.1415922
 # escriba aqui el radio del circulo
 radio = float(input("Dame el radio del circulo: "))
 # radio = int(radio)
