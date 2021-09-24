@@ -4,7 +4,7 @@ cadena = cadena.lower()
 
 cuenta = 0
 for c in cadena : 
-    if c in "aeiou" :
+    if c in "aeiouáéíóú" :
         cuenta = cuenta + 1
 
 
