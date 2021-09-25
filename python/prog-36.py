@@ -1,4 +1,6 @@
-archivo = open("datos.txt", "r")
+import sys
+nombre = sys.argv[1]
+archivo = open(nombre, "r")
 
 linea = archivo.readline()
 
